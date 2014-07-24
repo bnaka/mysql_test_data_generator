@@ -1,0 +1,22 @@
+--- 
+db_list: 
+  test2_db: 
+    host: localhost
+    name: test2
+    tables: 
+    - g
+    - j
+  test_db: 
+    host: localhost
+    name: test
+    tables: 
+    - a
+    - d
+db_pass: bnaka
+db_user: bnaka
+gen_record_max: 2000
+gen_values: 
+  pri_count: 0
+  pri_first: 100000000
+  uni_count: 0
+  uni_first: 100000000
